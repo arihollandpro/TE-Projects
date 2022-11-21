@@ -84,7 +84,7 @@ public class Program {
 
 			//choice = userInput.nextLine();
 
-			///// Purchace Menu
+			///// Purchase Menu
 
 			if (choice.contains("2")) {
 				while (!userInput.equals("3")) {
